@@ -1,0 +1,1 @@
+# react-fake-trading-terminal
